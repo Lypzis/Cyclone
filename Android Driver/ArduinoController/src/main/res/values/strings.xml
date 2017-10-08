@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ArduinoController</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="btAbrir">Abrir</string>
+    <string name="btFechar">Fechar</string>
+    <string name="btVirarEsq">Esquerda</string>
+    <string name="btVirarDir">Direita</string>
+    <string name="btFrente">Frente</string>
+    <string name="btAtras">Atrás</string>
+    <string name="btAcima">Acima</string>
+    <string name="btAbaixo">Abaixo</string>
+    
+    <string name="blank_msg">No data\n</string>
+
+</resources>

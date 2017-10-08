@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\Android WorkSpace\\Android\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\AndroidStudio\\Android WorkSpace\\Android\\ArduinoController\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rotateright.png",
+        "source": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\src\\main\\res\\drawable-xhdpi\\rotateright.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\up.png",
+        "source": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\src\\main\\res\\drawable-xhdpi\\up.png"
+    },
+    {
+        "merged": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rotateleft.png",
+        "source": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\src\\main\\res\\drawable-xhdpi\\rotateleft.png"
+    },
+    {
+        "merged": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\down.png",
+        "source": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\src\\main\\res\\drawable-xhdpi\\down.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rotateright.png",
+        "source": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\src\\main\\res\\drawable-xhdpi\\rotateright.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\down.png",
+        "source": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\src\\main\\res\\drawable-xhdpi\\down.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rotateleft.png",
+        "source": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\src\\main\\res\\drawable-xhdpi\\rotateleft.png"
+    },
+    {
+        "merged": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\up.png",
+        "source": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\src\\main\\res\\drawable-xhdpi\\up.png"
+    }
+]

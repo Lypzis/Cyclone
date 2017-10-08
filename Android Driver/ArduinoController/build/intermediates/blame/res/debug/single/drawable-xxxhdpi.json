@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\rotateright.png",
+        "source": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\src\\main\\res\\drawable-xxxhdpi\\rotateright.png"
+    },
+    {
+        "merged": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\rotateright.png",
+        "source": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\src\\main\\res\\drawable-xxxhdpi\\rotateright.png"
+    },
+    {
+        "merged": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\down.png",
+        "source": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\src\\main\\res\\drawable-xxxhdpi\\down.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\up.png",
+        "source": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\src\\main\\res\\drawable-xxxhdpi\\up.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\down.png",
+        "source": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\src\\main\\res\\drawable-xxxhdpi\\down.png"
+    },
+    {
+        "merged": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\rotateleft.png",
+        "source": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\src\\main\\res\\drawable-xxxhdpi\\rotateleft.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\rotateleft.png",
+        "source": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\src\\main\\res\\drawable-xxxhdpi\\rotateleft.png"
+    },
+    {
+        "merged": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\up.png",
+        "source": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\src\\main\\res\\drawable-xxxhdpi\\up.png"
+    }
+]

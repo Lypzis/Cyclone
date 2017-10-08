@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\Android WorkSpace\\Android\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "D:\\AndroidStudio\\Android WorkSpace\\Android\\ArduinoController\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\src\\main\\res\\xml\\device_filter.xml"
+    }
+]

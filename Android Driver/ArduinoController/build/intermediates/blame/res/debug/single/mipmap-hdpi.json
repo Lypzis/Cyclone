@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\rotateleft.png",
+        "source": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\src\\main\\res\\mipmap-hdpi\\rotateleft.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\rotateleft.png",
+        "source": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\src\\main\\res\\mipmap-hdpi\\rotateleft.png"
+    },
+    {
+        "merged": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\rotateright.png",
+        "source": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\src\\main\\res\\mipmap-hdpi\\rotateright.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\rotateright.png",
+        "source": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\src\\main\\res\\mipmap-hdpi\\rotateright.png"
+    }
+]

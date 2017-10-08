@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\Android WorkSpace\\Android\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\layout\\activity_arduino_controller.xml",
+        "source": "D:\\AndroidStudio\\Android WorkSpace\\Android\\ArduinoController\\src\\main\\res\\layout\\activity_arduino_controller.xml"
+    },
+    {
+        "merged": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\layout\\activity_arduino_controller.xml",
+        "source": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\src\\main\\res\\layout\\activity_arduino_controller.xml"
+    },
+    {
+        "merged": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\9eee68c2be00dc6c6912f94ee263d0bc89ea6b50\\output\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\9eee68c2be00dc6c6912f94ee263d0bc89ea6b50\\output\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android WorkSpace\\Android\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\9eee68c2be00dc6c6912f94ee263d0bc89ea6b50\\output\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\layout\\activity_arduino_controller.xml",
+        "source": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\src\\main\\res\\layout\\activity_arduino_controller.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android WorkSpace\\Android\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\9eee68c2be00dc6c6912f94ee263d0bc89ea6b50\\output\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\Android WorkSpace\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\9eee68c2be00dc6c6912f94ee263d0bc89ea6b50\\output\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "J:\\Devices\\BackupPenSI\\Android Driver\\ArduinoController\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\9eee68c2be00dc6c6912f94ee263d0bc89ea6b50\\output\\res\\layout\\device_name.xml"
+    }
+]
